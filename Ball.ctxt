@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Ball
+comment1.params=
+comment1.target=Ball()
+comment2.params=f
+comment2.target=void\ lerneFEnsKen(basis.Fenster)
+comment3.params=richtung
+comment3.target=void\ bewegeBall(double)
+comment4.params=
+comment4.target=double\ getX()
+comment5.params=
+comment5.target=double\ getY()
+comment6.params=
+comment6.target=int\ getrad()
+comment7.params=x
+comment7.target=void\ setX(int)
+comment8.params=y
+comment8.target=void\ setY(int)
+comment9.params=rad
+comment9.target=void\ setrad(int)
+numComments=10
